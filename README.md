@@ -1,2 +1,2 @@
 # Toko-Kuota-R
-Akrab Sharing
+Akrab Sharing & Kuota XL
